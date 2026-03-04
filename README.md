@@ -16,6 +16,10 @@ Rules-based equity strategy selecting the top 30 S&P 500 stocks monthly using va
 ### [AI Tone Bias in Earnings Call Summaries](https://github.com/kabirguglani)
 Compared GPT-4 vs Claude Sonnet earnings call summaries against professional analyst reports (NVIDIA, P&G). Identified systematic tone divergence producing conflicting investment recommendations from identical transcripts. Classified 5 semantic failure modes beyond hallucination.
 
+### [Valuation — Applied Materials (AMAT)](https://github.com/kabirguglani)
+Full valuation analysis of AMAT using DCF, Comparable Companies, and Precedent Transactions. Modelled 5-year projections (7% CAGR, WACC 8.4%), deriving an intrinsic value with 12% upside vs market price.
+- Built in Excel: FactSet · Capital IQ
+
 ---
 
 ## 🛠️ Tech Stack
@@ -42,8 +46,6 @@ Compared GPT-4 vs Claude Sonnet earnings call summaries against professional ana
 
 
 
-
-## Hi there 👋
 
 <!--
 **kabirguglani/kabirguglani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
