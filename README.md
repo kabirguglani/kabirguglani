@@ -13,7 +13,7 @@ Rules-based equity strategy selecting the top 30 S&P 500 stocks monthly using va
 - Annualised volatility 15.3% vs 17.3% · Beta 0.75 · Sortino ratio 1.02
 - Built in Python: yfinance · pandas · scipy · matplotlib
 
-### [AI Tone Bias in Earnings Call Summaries](https://github.com/kabirguglani)
+### [AI Tone Bias in Earnings Call Summaries](https://github.com/kabirguglani/ai-tone-bias)
 Compared GPT-4 vs Claude Sonnet earnings call summaries against professional analyst reports (NVIDIA, P&G). Identified systematic tone divergence producing conflicting investment recommendations from identical transcripts. Classified 5 semantic failure modes beyond hallucination.
 
 ### [Valuation — Applied Materials (AMAT)](https://github.com/kabirguglani)
