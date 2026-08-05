@@ -13,7 +13,7 @@ I build quantitative finance models and tools — combining a CS background with
 
 ## Projects
 
-### 🏭 [Carbon Intensity & Credit Risk](https://github.com/kabirguglani/carbon-credit-risk)
+### 🏭 [Carbon Intensity & Credit Risk](https://github.com/kabirguglani/carbon_credit_risk)
 
 Merged EPA facility-level emissions (6,470 facilities) with parent-company ownership records to build firm-level carbon data for 108 S&P 500 constituents, allocating jointly-owned facilities by ownership share. Tested whether carbon intensity predicts Altman Z-scores — the strong raw correlation (β = −0.29, p < 0.01) collapses under sector controls (β = −0.11, p = 0.25). The effect is industry composition, not carbon.
 
