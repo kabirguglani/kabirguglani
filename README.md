@@ -13,6 +13,12 @@ I build quantitative finance models and tools — combining a CS background with
 
 ## Projects
 
+### 🏭 [Carbon Intensity & Credit Risk](https://github.com/kabirguglani/carbon-credit-risk)
+
+Merged EPA facility-level emissions (6,470 facilities) with parent-company ownership records to build firm-level carbon data for 108 S&P 500 constituents, allocating jointly-owned facilities by ownership share. Tested whether carbon intensity predicts Altman Z-scores — the strong raw correlation (β = −0.29, p < 0.01) collapses under sector controls (β = −0.11, p = 0.25). The effect is industry composition, not carbon.
+
+`Python` `pandas` `statsmodels` `yfinance` `EPA GHGRP` `Altman Z-score`
+
 ### 🤖 [AI Job Application Agent](https://github.com/kabirguglani/job-application-agent)
 Automated pipeline on n8n — searches finance job boards across the US and Ireland daily, scores each role out of 10 using Gemini 2.5 Flash across 5 dimensions, then rewrites my resume, writes a cover letter, and runs a skill gap analysis for every match. Outputs saved to Google Drive, logged to Sheets, delivered via Gmail. All before 7 AM.  
 `n8n` `Gemini 2.5 Flash` `Adzuna API` `Google Workspace APIs` `Python`
